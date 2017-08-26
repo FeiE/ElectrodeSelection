@@ -1,3 +1,4 @@
+# Electrode_Selection
 
 - Traditionally, analyses are restricted to an subset of electrodes and then focus on one single electrode with maximum value from the subset. The same electrode is even applied to all participants. This approach is problematic because of a lack of robustness with respect to the electrode selected. 
 
