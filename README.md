@@ -7,12 +7,9 @@
 
 ## Maximum value across electrodes of interest ##
 
-The figure below visualizes the results of one participant. Topographic map shows the effects congregate at posterior lateral electrodes, particularly on the right hemisphere. Therefore we focus on eletrodes from the right hemishpere. At the bottom the thin lines indicate the time courses of the right electrodes. The thicker line shows the maximum values across those electrodes. Maximum value across electrodes and frame is detailed on the top. 
+['getmaxvalue.m'](https://github.com/FeiE/Electrode_Selection/blob/master/getmaxvalue.m) visualizes the results of one participant. Topographic map shows the effects congregate at posterior lateral electrodes, particularly on the right hemisphere. Therefore we focus on eletrodes from the right hemishpere. At the bottom the thin lines indicate the time courses of the right electrodes. The thicker line shows the maximum values across those electrodes. Maximum value across electrodes and frame is detailed on the top. 
 
-<img src="/results_visualization.png" alt="" width="500">
-
-
-
+<img src="/results_visualization.png" alt="" width="500"> 
 
 
 ## Electrodes of interest ##
