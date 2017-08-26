@@ -9,6 +9,9 @@
 
 ['getmaxvalue.m'](https://github.com/FeiE/Electrode_Selection/blob/master/getmaxvalue.m) can visualize the results per each participant. For example, topographic map shows the effects congregate at posterior lateral electrodes, particularly on the right hemisphere. Therefore we focus on eletrodes from the right hemishpere. The thin lines indicate the time courses of values per each of those electrodes. The thicker line shows the maximum values across electrodes. Maximum value across electrodes and frame is detailed on the top.
 
+<img src="/results_visualization.png" alt="" width="600">
+
+
 ``` matlab
 load('DATA.mat')% for one participant (elecs x time point)
 chanR = {'B9' 'B8' 'B7' 'B6' 'B5' 'B4' 'B3' 'B2' 'B1' ...
