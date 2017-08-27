@@ -7,7 +7,7 @@
 
 ## Maximum value across electrodes of interest ##
 
-['getmaxvalue.m'](https://github.com/FeiE/Electrode_Selection/blob/master/getmaxvalue.m) can visualize the results per each participant. For example, topographic map shows the effects congregate at posterior lateral electrodes, particularly on the right hemisphere. Therefore we focus on eletrodes from the right hemishpere. The thin lines indicate the time courses of values per each of those electrodes. The thicker line shows the maximum values across electrodes. Maximum value across electrodes and frame is detailed on the top.
+['getmaxvalue.m'](https://github.com/FeiE/Electrode_Selection/blob/master/getmaxvalue.m) can visualize the results per each participant. For example, topographic map shows the effects congregate at posterior lateral electrodes, particularly on the right hemisphere. Therefore we focus on the eletrodes from the right hemishpere. The thin lines indicate the time courses of values per each of those electrodes. The thicker line shows the maximum values across electrodes. Maximum value across electrodes and frames is detailed on the top.
 
 <img src="/results_visualization.png" alt="" width="600">
 
